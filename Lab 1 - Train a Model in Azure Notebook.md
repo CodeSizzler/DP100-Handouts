@@ -36,4 +36,4 @@ For help on uploading data into Azure Notebook see: https://docs.microsoft.com/e
 Before you can do this lab, you need to have:
 - Signed Up for the free Azure Notebook Service.  
 
-
+[![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/CodeSizzler/projects/dp100-demo)

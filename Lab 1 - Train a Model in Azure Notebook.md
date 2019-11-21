@@ -3,10 +3,11 @@
 ## Lab 1.0: Objectives
 
 In this lab, you will:
-•	Use Azure Notebook with Python, a cloud based Jupyter Notebook service.
-•	Perform exploratory data analysis
-•	Create machine learning model features
-•	Train an open source based classification predictive model.
+
+-	Use Azure Notebook with Python, a cloud based Jupyter Notebook service.
+-	Perform exploratory data analysis
+-	Create machine learning model features
+-	Train an open source based classification predictive model.
 
 The main goal of this lab is to get students up to speed using Azure Notebooks while getting them started on the Adventure Works use case.
 

@@ -38,4 +38,4 @@ Before you can do this lab, you need to have:
 
 ## Get the project solution files and step by step walkthrough from the below link:
 
-[![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/CodeSizzler/projects/dp100-demo)
+[![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/CodeSizzler/projects/DP100-Labs)

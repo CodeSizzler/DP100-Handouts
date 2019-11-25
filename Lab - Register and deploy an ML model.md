@@ -17,15 +17,13 @@ In this lab, you will train the model you developed in the last lab on Azure usi
 
 Lab 2: Resources
 
-You will use the following files from the lab folder:
+You will use the previous lab output files from lab 1 for this demo:
 
-Name	Description
-Starter_Lab2_Notebook.ipynb	The lab notebook you should use. Import this into your Notebook project and open it.
 For help on creating Azure Notebook projects and importing notebooks see: https://docs.microsoft.com/en-us/azure/notebooks/quickstart-migrate-local-jupyter-notebook
 
 For help on uploading data into Azure Notebook see: https://docs.microsoft.com/en-us/azure/notebooks/work-with-project-data-files
 
-Prerequisites
+Prerequisites:
 
 Before you can do this lab, you need to have:
 

@@ -1,5 +1,6 @@
-Lab - Register and deploy an ML model
-Lab: Objectives
+Lab - Register and deploy a ML model
+
+Lab Objectives:
 
 In this lab, you will:
 
